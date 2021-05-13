@@ -27,5 +27,5 @@ The purpose of this study was to compare the performance of a drug treatment of 
 ## Visualizations
 
 ![BarPlot](./visualizations/DrugRegime_bar.png)
-![PiePlot](./visualizations/Male_v_Female-pie.png)
+![PiePlot](./visualizations/Male_v_Female_pie.png)
 ![BoxWhisker](./visualizations/TumorVolume_box.png)
